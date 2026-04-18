@@ -1,0 +1,10 @@
+[project]
+name = "rag-pipeline"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "rag_md_engine @ git+https://github.com/iamdeepank/rag_md_engine.git"
+    
+]
